@@ -163,7 +163,7 @@ export const projects = [
     tags: ["React Js", "Mysql", "Node Js", "Express Js", "Recharts"],
     category: "web app",
     github: "https://github.com/Albatross23/Dashboard-parental-app",
-    webapp: "dash-board23.netlify.app",
+    webapp: "https://dash-board23.netlify.app",
   },
   {
     id: 5,
@@ -176,7 +176,7 @@ export const projects = [
     tags: ["javascript", "HTML", "CSS", "Netlify"],
     category: "web app",
     github: "https://github.com/Albatross23/All-tiny-projects",
-    webapp: "all-tiny-projects.netlify.app",
+    webapp: "https://all-tiny-projects.netlify.app",
   },
   {
     id: 7,
